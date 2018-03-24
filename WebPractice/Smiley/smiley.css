@@ -1,0 +1,38 @@
+#circle{
+	height:500px;
+	width:500px;
+	border-radius: 250px;
+	background: yellow;
+	position: relative;
+	margin: 50px auto;
+
+}
+
+#circle #eye1{
+	float:left;
+	height:90px;
+	width:90px;
+	border-radius: 45px;
+	background-color: black;
+margin: 120px 100px;
+position: fixed;
+}
+
+#circle #eye2{
+	height:90px;
+	width:90px;
+	border-radius: 45px;
+	background-color: black;
+margin: 10px 220px;
+position: relative;
+}
+
+#circle #smile{
+	height:70px;
+	width:180px;
+	border-radius: 30px;
+	background: black;
+	margin:200px -175px;
+	position: fixed;
+
+}
